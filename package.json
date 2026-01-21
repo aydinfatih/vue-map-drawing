@@ -41,12 +41,12 @@
     "@vitejs/plugin-vue": "^5.0.0",
     "vite": "^5.0.0"
   },
-  "homepage": "https://github.com/fatihaydin/vue-map-drawing#readme",
+  "homepage": "https://github.com/aydinfatih/vue-map-drawing#readme",
   "bugs": {
-    "url": "https://github.com/fatihaydin/vue-map-drawing/issues"
+    "url": "https://github.com/aydinfatih/vue-map-drawing/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fatihaydin/vue-map-drawing.git"
+    "url": "git+https://github.com/aydinfatih/vue-map-drawing.git"
   }
 }
